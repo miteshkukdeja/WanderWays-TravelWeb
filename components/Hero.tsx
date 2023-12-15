@@ -10,7 +10,7 @@ const Hero = () => {
       {/* Left */}
       <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
         <Image src="./camp.svg" alt="camp" width={50} height={50} />
-        <h1 className="bold-52 lg:bold-88">Putuk Truno Camp Area</h1>
+        <h1 className="bold-52 lg:bold-88">Solang Valley Camp Area</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
           We want to be on each of your journeys seeking the satisfaction of
           seeing the incorruptible beauty of nature. We can help you on an
@@ -61,7 +61,7 @@ const Hero = () => {
               <p className="regular-16 text-gray-20">Location</p>
               <Image src="./close.svg" alt="close" width={24} height={24} />
             </div>
-            <p className="bold-20 text-white">Aguas Calients</p>
+            <p className="bold-20 text-white">Rohtang Pass</p>
           </div>
 
           {/* Distance & Elevation */}
